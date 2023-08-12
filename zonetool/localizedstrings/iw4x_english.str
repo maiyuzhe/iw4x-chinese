@@ -95,7 +95,7 @@ REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_17
 LANG_ENGLISH         ""
 
 REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_18
-LANG_ENGLISH         "图标编辑器"
+LANG_ENGLISH         "徽章编辑器"
 
 REFERENCE           EXE_COD_FEATURE_BAN_CATEGORY_19
 LANG_ENGLISH         "时限奖励"
@@ -1346,13 +1346,13 @@ REFERENCE           PLATFORM_DYK_IW4_MSG9
 LANG_ENGLISH         "从防爆盾弹开的子弹仍然可能造成击杀！"
 
 REFERENCE           PLATFORM_DYK_IW4_MSG10
-LANG_ENGLISH         "编辑代号来炫耀自己获得的头衔和图标。"
+LANG_ENGLISH         "编辑代号来炫耀自己获得的头衔和徽章。"
 
 REFERENCE           PLATFORM_DYK_IW4_MSG11
 LANG_ENGLISH         "左右滚动游戏摘要来查看详细信息。"
 
 REFERENCE           PLATFORM_DYK_IW4_MSG12
-LANG_ENGLISH         "进入巅峰模式后，你已获取的头衔和图标不会重置。"
+LANG_ENGLISH         "进入巅峰模式后，你已获取的头衔和徽章不会重置。"
 
 REFERENCE           PLATFORM_DYK_IW4_MSG13
 LANG_ENGLISH         "游戏进行中关闭系统会导致你失去比赛奖励。"
@@ -2189,13 +2189,13 @@ REFERENCE           PLATFORM_FILMIC_SMAA_T2X
 LANG_ENGLISH         "影片反锯齿SMAA T2x"
 
 REFERENCE           PLATFORM_EMBLEM_MOVE_LAYER_KBM
-LANG_ENGLISH         "左击+拖动移动图标"
+LANG_ENGLISH         "左击+拖动移动徽章"
 
 REFERENCE           PLATFORM_EMBLEM_SCALE_LAYER_KBM
-LANG_ENGLISH         "鼠标左击+鼠标右击+拖动更改图标比例"
+LANG_ENGLISH         "鼠标左击+鼠标右击+拖动更改徽章比例"
 
 REFERENCE           PLATFORM_EMBLEM_ROTATE_LAYER_KBM
-LANG_ENGLISH         "右击+拖动旋转图标"
+LANG_ENGLISH         "右击+拖动旋转徽章"
 
 REFERENCE           PLATFORM_EMBLEM_LAYER_DOWN_KBM
 LANG_ENGLISH         "图层下移"
@@ -2348,7 +2348,7 @@ REFERENCE           PLATFORM_DYK_MSG32
 LANG_ENGLISH         "屏住呼吸！使用配备瞄准镜的武器瞄准时屏息可提高射击准度。"
 
 REFERENCE           PLATFORM_DYK_MSG33
-LANG_ENGLISH         "掷回手雷！当附近有投过来的手雷时，注意掷回手雷的提示图标。你可以掷回敌人投过来的手雷。"
+LANG_ENGLISH         "掷回手雷！当附近有投过来的手雷时，注意掷回手雷的提示徽章。你可以掷回敌人投过来的手雷。"
 
 REFERENCE           PLATFORM_DYK_MSG34
 LANG_ENGLISH         "穿墙射击！不同武器可射穿多种表面，但造成的伤害会降低。"
@@ -6992,7 +6992,7 @@ REFERENCE           MPUI_BOMBSPLANTED
 LANG_ENGLISH         "X 2"
 
 REFERENCE           MPUI_UNLOCKS_NEW_ICON
-LANG_ENGLISH         "解锁：新的图标"
+LANG_ENGLISH         "解锁：新的徽章"
 
 REFERENCE           MPUI_UNLOCKS_NEW_TITLE
 LANG_ENGLISH         "解锁：新的头衔"
@@ -7079,13 +7079,13 @@ REFERENCE           MPUI_NEW_TITLES_DESC
 LANG_ENGLISH         "你的代号可以使用新的头衔了！"
 
 REFERENCE           MPUI_NEW_ICON
-LANG_ENGLISH         "新的图标！"
+LANG_ENGLISH         "新的徽章！"
 
 REFERENCE           MPUI_NEW_ICONS
-LANG_ENGLISH         "新的图标！"
+LANG_ENGLISH         "新的徽章！"
 
 REFERENCE           MPUI_NEW_ICONS_DESC
-LANG_ENGLISH         "你的代号可以使用新的图标了！"
+LANG_ENGLISH         "你的代号可以使用新的徽章了！"
 
 REFERENCE           MPUI_CHANGING_KIT
 LANG_ENGLISH         "正在更换套件"
@@ -7499,19 +7499,19 @@ REFERENCE           MPUI_PRESTIGE_TITLE_EMBLEM_1
 LANG_ENGLISH         "普通包"
 
 REFERENCE           MPUI_DESC_PRESTIGE_TITLE_EMBLEM_1
-LANG_ENGLISH         "拥有额外代币的玩家可以使用代号头衔和图标。"
+LANG_ENGLISH         "拥有额外代币的玩家可以使用代号头衔和徽章。"
 
 REFERENCE           MPUI_PRESTIGE_TITLE_EMBLEM_2
 LANG_ENGLISH         "熟练包"
 
 REFERENCE           MPUI_DESC_PRESTIGE_TITLE_EMBLEM_2
-LANG_ENGLISH         "使命召唤狂热者的代号头衔和图标。"
+LANG_ENGLISH         "使命召唤狂热者的代号头衔和徽章。"
 
 REFERENCE           MPUI_PRESTIGE_TITLE_EMBLEM_3
 LANG_ENGLISH         "老兵包"
 
 REFERENCE           MPUI_DESC_PRESTIGE_TITLE_EMBLEM_3
-LANG_ENGLISH         "使命召唤硬核玩家的代号头衔和图标。"
+LANG_ENGLISH         "使命召唤硬核玩家的代号头衔和徽章。"
 
 REFERENCE           MPUI_HAMRHYBRID
 LANG_ENGLISH         "HAMR瞄具"
@@ -7532,7 +7532,7 @@ REFERENCE           MPUI_ELITE_SELL_TITLE
 LANG_ENGLISH         "连接。比赛。改进。"
 
 REFERENCE           MPUI_ELITE_SELL_DESC
-LANG_ENGLISH         "和玩家联系。竞技获得奖励。提高游戏体验。获得免费专属图标、头衔以及2小时的双倍经验时间。"
+LANG_ENGLISH         "和玩家联系。竞技获得奖励。提高游戏体验。获得免费专属徽章、头衔以及2小时的双倍经验时间。"
 
 REFERENCE           MPUI_ELITE_SELL_CONFIRM
 LANG_ENGLISH         "下载免费的《使命召唤?精英》应用"
@@ -7697,10 +7697,10 @@ REFERENCE           MPUI_RULES_ENEMY_FLAG_RADAR
 LANG_ENGLISH         "敌方旗帜雷达："
 
 REFERENCE           MPUI_RULES_JUGG_RADAR
-LANG_ENGLISH         "无畏雷达图标："
+LANG_ENGLISH         "无畏雷达徽章："
 
 REFERENCE           MPUI_RULES_JUGG_WORLD
-LANG_ENGLISH         "无畏世界图标："
+LANG_ENGLISH         "无畏世界徽章："
 
 REFERENCE           MPUI_RULES_15POINTS
 LANG_ENGLISH         "15点数"
@@ -16850,7 +16850,7 @@ REFERENCE           MENU_TEAM_OVERLAY
 LANG_ENGLISH         "团队叠加："
 
 REFERENCE           MENU_CHAT_ICON_TIME
-LANG_ENGLISH         "聊天图标时间："
+LANG_ENGLISH         "聊天徽章时间："
 
 REFERENCE           MENU_NET_DATA_RATE
 LANG_ENGLISH         "网络数据速率："
@@ -16913,7 +16913,7 @@ REFERENCE           MENU_DRAW_HUD
 LANG_ENGLISH         "显示HUD"
 
 REFERENCE           MENU_DRAW_CROSSHAIR
-LANG_ENGLISH         "显示准星图标"
+LANG_ENGLISH         "显示准星徽章"
 
 REFERENCE           MENU_QUICK_REFRESH
 LANG_ENGLISH         "快速刷新"
@@ -18920,10 +18920,10 @@ REFERENCE           MENU_INVITING_PARTY_MEMBERS
 LANG_ENGLISH         "正在邀请队伍成员"
 
 REFERENCE           MENU_PRESTIGE_RESET_WARNING1
-LANG_ENGLISH         "用你所有的成就换取巅峰。^n^n在大厅、排行榜和游戏中，其他玩家都会看到你的全新巅峰等级图标。"
+LANG_ENGLISH         "用你所有的成就换取巅峰。^n^n在大厅、排行榜和游戏中，其他玩家都会看到你的全新巅峰等级徽章。"
 
 REFERENCE           MENU_PRESTIGE_GM_RESET_WARNING1
-LANG_ENGLISH         "巅峰大师会重置你等级。你将会获得巅峰大师图标、名片、玩家装备和一个永久解锁。你的军械库将会保留，你所拥有的所有名片、图标图标、挑战和配件都将保留。"
+LANG_ENGLISH         "巅峰大师会重置你等级。你将会获得巅峰大师徽章、名片、玩家装备和一个永久解锁。你的军械库将会保留，你所拥有的所有名片、徽章徽章、挑战和配件都将保留。"
 
 REFERENCE           MENU_PRESTIGE_RESET_TITLE1
 LANG_ENGLISH         "一切重来？"
@@ -18938,7 +18938,7 @@ REFERENCE           MENU_PRESTIGE_RESET_WARNING2
 LANG_ENGLISH         "巅峰的代价：你已经解锁的所有东西，包括武器、经验和挑战都会重置；你必须再次升级以重新获得这些东西。  只有排行榜排名、战队标签和游戏列表不受影响。"
 
 REFERENCE           MENU_PRESTIGE_GM_RESET_WARNING2
-LANG_ENGLISH         "你的等级和根据等级解锁的内容将会被重置，包括武器、技能和外骨骼技能。你的名片、图标图标、挑战、武器配件和军械库物品均不受影响。"
+LANG_ENGLISH         "你的等级和根据等级解锁的内容将会被重置，包括武器、技能和外骨骼技能。你的名片、徽章徽章、挑战、武器配件和军械库物品均不受影响。"
 
 REFERENCE           MENU_PRESTIGE_RESET_WARNING3
 LANG_ENGLISH         "执行后将无法撤销"
@@ -19436,7 +19436,7 @@ REFERENCE           MENU_TITLE_CAPS
 LANG_ENGLISH         "头衔"
 
 REFERENCE           MENU_EMBLEM_CAPS
-LANG_ENGLISH         "图标"
+LANG_ENGLISH         "徽章"
 
 REFERENCE           MENU_KILLSTREAK_REWARDS_CAPS
 LANG_ENGLISH         "连杀奖励"
@@ -19667,13 +19667,13 @@ REFERENCE           MENU_PLAYERCARD_TITLES
 LANG_ENGLISH         "头衔"
 
 REFERENCE           MENU_PLAYERCARD_ICONS
-LANG_ENGLISH         "图标"
+LANG_ENGLISH         "徽章"
 
 REFERENCE           MENU_PLAYERCARD_TITLES_DESC
 LANG_ENGLISH         "选择你的头衔。"
 
 REFERENCE           MENU_PLAYERCARD_ICONS_DESC
-LANG_ENGLISH         "选择你的图标。"
+LANG_ENGLISH         "选择你的徽章。"
 
 REFERENCE           MENU_KILLSTREAK_REWARD
 LANG_ENGLISH         "连杀奖励"
@@ -20102,19 +20102,19 @@ REFERENCE           MENU_PLAYERCARD_TITLE
 LANG_ENGLISH         "头衔"
 
 REFERENCE           MENU_PLAYERCARD_ICON
-LANG_ENGLISH         "图标"
+LANG_ENGLISH         "徽章"
 
 REFERENCE           MENU_DESC_PLAYERCARD_TITLE
 LANG_ENGLISH         "选择你的头衔。"
 
 REFERENCE           MENU_DESC_PLAYERCARD_ICON
-LANG_ENGLISH         "选择你的图标。"
+LANG_ENGLISH         "选择你的徽章。"
 
 REFERENCE           MENU_DESC_PLAYERCARD
-LANG_ENGLISH         "设置你的头衔和图标。"
+LANG_ENGLISH         "设置你的头衔和徽章。"
 
 REFERENCE           MENU_DESC_PLAYERCARD_LIVE
-LANG_ENGLISH         "设置你的头衔、图标和战队标签。"
+LANG_ENGLISH         "设置你的头衔、徽章和战队标签。"
 
 REFERENCE           MENU_DESC_PLAYERCARD_LOCKED
 LANG_ENGLISH         "代号选项被锁定。"
@@ -20546,7 +20546,7 @@ REFERENCE           MENU_REPORT_BOOSTING
 LANG_ENGLISH         "刷分"
 
 REFERENCE           MENU_REPORT_EMBLEM
-LANG_ENGLISH         "侮辱性的图标"
+LANG_ENGLISH         "侮辱性的徽章"
 
 REFERENCE           MENU_REPORT_OFFENSIVE_SUBMIT
 LANG_ENGLISH         "举报侮辱性的语言。"
@@ -20561,7 +20561,7 @@ REFERENCE           MENU_REPORT_BOOSTING_SUBMIT
 LANG_ENGLISH         "举报刷分。"
 
 REFERENCE           MENU_REPORT_EMBLEM_SUBMIT
-LANG_ENGLISH         "举报侮辱性的图标。"
+LANG_ENGLISH         "举报侮辱性的徽章。"
 
 REFERENCE           MENU_RECENT_GAMES
 LANG_ENGLISH         "最近进行的游戏"
@@ -21284,22 +21284,22 @@ REFERENCE           MENU_USED_LAYER_DESC
 LANG_ENGLISH         "编辑该图层"
 
 REFERENCE           MENU_EMBLEM_EDIT_EMBLEM_TITLE
-LANG_ENGLISH         "编辑图标"
+LANG_ENGLISH         "编辑徽章"
 
 REFERENCE           MENU_EMBLEM_CHOOSE_EMBLEM
-LANG_ENGLISH         "选择图标"
+LANG_ENGLISH         "选择徽章"
 
 REFERENCE           MENU_EMPTY_LAYER_DESC
-LANG_ENGLISH         "选择一个图标"
+LANG_ENGLISH         "选择一个徽章"
 
 REFERENCE           MENU_EMBLEM_CLEAR_LAYER
 LANG_ENGLISH         "清除图层"
 
 REFERENCE           MENU_EMBLEM_CHANGE_EMBLEM
-LANG_ENGLISH         "更改图标"
+LANG_ENGLISH         "更改徽章"
 
 REFERENCE           MENU_EMBLEM_MOVE_EMBLEM
-LANG_ENGLISH         "移动图标"
+LANG_ENGLISH         "移动徽章"
 
 REFERENCE           MENU_EMBLEM_FIXED_SCALE
 LANG_ENGLISH         "固定比例"
@@ -21332,7 +21332,7 @@ REFERENCE           MENU_CALLING_CARD_CAPS
 LANG_ENGLISH         "名片 "
 
 REFERENCE           MENU_EMBLEM_EDITOR_CAPS
-LANG_ENGLISH         "图标编辑器"
+LANG_ENGLISH         "徽章编辑器"
 
 REFERENCE           MENU_EMBLEM_CHANGE_COLOR
 LANG_ENGLISH         "更改颜色"
@@ -21353,7 +21353,7 @@ REFERENCE           MENU_EMBLEM_TOGGLE_TO_COLOR_PICKER
 LANG_ENGLISH         "切换到颜色选择器"
 
 REFERENCE           MENU_SAVE_EMBLEM_CHANGES
-LANG_ENGLISH         "保存图标变更？"
+LANG_ENGLISH         "保存徽章变更？"
 
 REFERENCE           MENU_EMBLEM_SAVE_AND_SET
 LANG_ENGLISH         "保存并应用到玩家卡片"
@@ -21389,7 +21389,7 @@ REFERENCE           MENU_EMBLEM_RGB_BLUE
 LANG_ENGLISH         "蓝色"
 
 REFERENCE           MENU_EMBLEM_SELECTOR_EMBLEMS_TAB
-LANG_ENGLISH         "图标"
+LANG_ENGLISH         "徽章"
 
 REFERENCE           MENU_EMBLEM_SELECTOR_GEAR_TAB
 LANG_ENGLISH         "装备"
@@ -22754,10 +22754,10 @@ REFERENCE           MENU_DISPLAY_KILLSTREAK_COUNTER_DESC
 LANG_ENGLISH         "开启或关闭连杀奖励计数器"
 
 REFERENCE           MENU_DISPLAY_MEDAL_SPLASHES
-LANG_ENGLISH         "显示图标溅射"
+LANG_ENGLISH         "显示徽章溅射"
 
 REFERENCE           MENU_DISPLAY_MEDAL_SPLASHES_DESC
-LANG_ENGLISH         "开启或关闭图标溅射效果"
+LANG_ENGLISH         "开启或关闭徽章溅射效果"
 
 REFERENCE           MENU_DISPLAY_WEAPON_EMBLEMS
 LANG_ENGLISH         "显示武器贴纸"
@@ -22769,10 +22769,10 @@ REFERENCE           MENU_OPTION_WEAPON_STICKER
 LANG_ENGLISH         "武器贴纸"
 
 REFERENCE           MENU_EMBLEM_OPTIONS
-LANG_ENGLISH         "图标选项"
+LANG_ENGLISH         "徽章选项"
 
 REFERENCE           MENU_DISPLAY_WEAPON_EMBLEMS_DESC
-LANG_ENGLISH         "开启或关闭在武器上显示玩家的图标贴纸"
+LANG_ENGLISH         "开启或关闭在武器上显示玩家的徽章贴纸"
 
 REFERENCE           MENU_RENAME_IN_SYSTEM_BOX
 LANG_ENGLISH         "重命名"
@@ -23690,10 +23690,10 @@ REFERENCE           CALLINGCARDS_TITLE_ATLAS_PRO
 LANG_ENGLISH         "名片：阿特拉斯专业版"
 
 REFERENCE           CALLINGCARDS_ICON_ATLAS_PRO
-LANG_ENGLISH         "图标：阿特拉斯专业版"
+LANG_ENGLISH         "徽章：阿特拉斯专业版"
 
 REFERENCE           CALLINGCARDS_ICON_SENTINEL
-LANG_ENGLISH         "图标：哨兵"
+LANG_ENGLISH         "徽章：哨兵"
 
 REFERENCE           CALLINGCARDS_TITLE_AW_REVEAL
 LANG_ENGLISH         "名片：高级战争启示"
@@ -23714,46 +23714,46 @@ REFERENCE           CALLINGCARDS_TITLE_NANOTECH
 LANG_ENGLISH         "名片：纳米技术"
 
 REFERENCE           CALLINGCARDS_ICON_CREATURE
-LANG_ENGLISH         "图标：生物"
+LANG_ENGLISH         "徽章：生物"
 
 REFERENCE           CALLINGCARDS_ICON_MAGMA
-LANG_ENGLISH         "图标：岩浆"
+LANG_ENGLISH         "徽章：岩浆"
 
 REFERENCE           CALLINGCARDS_ICON_LIGHTNING
-LANG_ENGLISH         "图标：闪电"
+LANG_ENGLISH         "徽章：闪电"
 
 REFERENCE           CALLINGCARDS_ICON_NANOTECH
-LANG_ENGLISH         "图标：纳米技术"
+LANG_ENGLISH         "徽章：纳米技术"
 
 REFERENCE           CALLINGCARDS_TITLE_CHAMPIONSHIP
 LANG_ENGLISH         "名片：冠军"
 
 REFERENCE           CALLINGCARDS_ICON_CHAMPIONSHIP
-LANG_ENGLISH         "图标：冠军"
+LANG_ENGLISH         "徽章：冠军"
 
 REFERENCE           CALLINGCARDS_TITLE_PSYC
 LANG_ENGLISH         "名片：迷幻"
 
 REFERENCE           CALLINGCARDS_ICON_PSYC
-LANG_ENGLISH         "图标：迷幻"
+LANG_ENGLISH         "徽章：迷幻"
 
 REFERENCE           CALLINGCARDS_TITLE_TIKI
 LANG_ENGLISH         "名片：图腾鬼娃"
 
 REFERENCE           CALLINGCARDS_ICON_TIKI
-LANG_ENGLISH         "图标：图腾鬼娃"
+LANG_ENGLISH         "徽章：图腾鬼娃"
 
 REFERENCE           CALLINGCARDS_TITLE_JUNGLE
 LANG_ENGLISH         "名片：泄湖"
 
 REFERENCE           CALLINGCARDS_ICON_JUNGLE
-LANG_ENGLISH         "图标：暗礁"
+LANG_ENGLISH         "徽章：暗礁"
 
 REFERENCE           CALLINGCARDS_TITLE_GASFLAMES
 LANG_ENGLISH         "名片：反冲"
 
 REFERENCE           CALLINGCARDS_ICON_GASFLAMES
-LANG_ENGLISH         "图标：反冲"
+LANG_ENGLISH         "徽章：反冲"
 
 REFERENCE           DIVISIONS_BRONZE
 LANG_ENGLISH         "青铜"
@@ -25787,7 +25787,7 @@ REFERENCE			MENU_BARRACKS_CAPS
 LANG_ENGLISH		"成就,挑战和信息"
 
 REFERENCE			MPUI_DESC_PLAYERCARD
-LANG_ENGLISH		"设置你的标题,图标以及连杀奖励"
+LANG_ENGLISH		"设置你的标题,徽章以及连杀奖励"
 
 REFERENCE           KILLSTREAKS_TACTICAL_NUKE
 LANG_ENGLISH        "战术核弹"

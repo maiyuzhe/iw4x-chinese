@@ -1,12 +1,6 @@
 // orig zone
 require,localized_code_post_gfx_mp
 
-//rawfile
-rawfile,language.cfg
-//material
-material,fonts/gamefont_pc_chinese
-material,fonts/gamefont_pc_chinese_glow
-
 // fonts
 font,fonts/smallDevFont
 font,fonts/consoleFont
@@ -55,4 +49,3 @@ sound,US_1mc_boost
 sound,volume_adjust
 
 localize,iw4x_english
-//localize,localize
