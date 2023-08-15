@@ -1,6 +1,6 @@
 # IW4x Chinese Patch
 
-This is the *first* **.dll free, .exe free** Chinese localization for the popular open source Call of Duty Modern Warfare 2 Client, IW4x.
+This is the *first* **.dll free, .exe free** Chinese localization for the popular open source Call of Duty Modern Warfare 2 Client: IW4x.
 
 This patch should work for **every** version of IW4x unlike previous localizations that were closed sourced forks of IW4x.
 
